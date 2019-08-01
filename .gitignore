@@ -33,7 +33,6 @@ hs_err_pid*
 /out/
 /WebContent/WEB-INF/
 *.tsv
-*.so
 /.gradle/
 /.idea/
 /out/
